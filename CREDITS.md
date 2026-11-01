@@ -19,4 +19,4 @@ Haunted Hall's code is original. It uses these published techniques:
 - **Rational tanh approximation** for saturation (Padé-style).
 
 Development note: written with substantial AI assistance (Claude, Anthropic),
-reviewed and directed by FlowSphereAI.
+reviewed and directed by MantisAudioAI.
